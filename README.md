@@ -1,2 +1,2 @@
-# jeonghwan
-Final_Project
+# JWL-SQUAT
+SQAUT Trainer
